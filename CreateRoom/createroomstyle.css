@@ -10,9 +10,30 @@
     border-style: solid;
     margin-left: 40%;
     margin-right: 40%;
+    margin-bottom: 2%;
+    background-color: grey;
+    cursor: pointer;
 }
 
 .personButtonTitle {
-    color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.backButton {
+    text-align: center;
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: azure;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 2%;
+    background-color: red;
+    cursor: pointer;
+}
+
+.backButtonTitle {
+    color: wheat;
     text-decoration: none;
 }
